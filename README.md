@@ -12,10 +12,10 @@ Este é o complemento da Máquina de Edição. **Instale o pacote principal prim
 | `/ensaio-visual` | Você recortado com notícias, números e provas visuais |
 | `/nuvem-de-imagens` | Grupos de imagens acima da cabeça, com visual editorial |
 | `/recorte-com-imagens` | Você na frente de imagens que mudam com a fala |
-| `/formato-ranking` | Tier list animada que se preenche conforme as avaliações |
 | `/aula-em-tela-dividida` | Documento da aula ao lado da câmera, com entrega em PDF |
-| `/widgets-de-vidro` | Widgets de vidro em volta da cabeça e gráficos de vidro subindo |
-| `/cards-em-orbita` | Seus posts girando em volta da cabeça, em carrossel 3D ou em leque |
+| `/palavra-atras-da-cabeca` | Uma palavra gigante cai atrás da sua cabeça nas palavras mais fortes |
+| `/checklist-na-tela` | A lista do que você fala aparece e cada item ganha ✓ na hora certa |
+| `/marcacoes` | Imagem congela com seta à mão, fita no peito e caixa que aumenta o número |
 | `/capa-de-revista` | Você vira capa de revista e as frases fortes viram colagem vermelha |
 | `/grade-do-perfil` | Você no centro da grade do perfil, com os reels e as visualizações em volta |
 
