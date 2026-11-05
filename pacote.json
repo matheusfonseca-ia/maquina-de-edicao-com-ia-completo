@@ -1,6 +1,6 @@
 {
   "id": "order-bump",
-  "nome": "Máquina de Edição — 6 formatos extras",
+  "nome": "Máquina de Edição — 10 formatos extras",
   "requerMotor": true,
   "skills": [
     "reels-com-broll",
@@ -8,6 +8,10 @@
     "nuvem-de-imagens",
     "recorte-com-imagens",
     "formato-ranking",
-    "aula-em-tela-dividida"
+    "aula-em-tela-dividida",
+    "widgets-de-vidro",
+    "cards-em-orbita",
+    "capa-de-revista",
+    "grade-do-perfil"
   ]
 }
