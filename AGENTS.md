@@ -2,7 +2,7 @@
 
 Repositório de instalação do pacote order-bump. O manifesto `pacote.json` define as skills deste pacote.
 
-Para instalar ou atualizar, rode `powershell -ExecutionPolicy Bypass -File .\instalar.ps1` no Windows ou `bash instalar.sh` no Mac/Linux. Em uma cópia clonada do GitHub, rode `git pull` antes de atualizar. Depois peça para fechar e abrir o Claude Code.
+Para instalar ou atualizar, rode `powershell -ExecutionPolicy Bypass -File .\instalar.ps1` no Windows ou `bash instalar.sh` no Mac/Linux. Em uma cópia clonada do GitHub, rode `git pull` antes de atualizar. Depois peça para fechar e abrir o agente (Claude Code, Codex, OpenCode ou Freebuff). As skills vão para `~/.claude/skills` e `~/.agents/skills`.
 
 Este pacote inclui somente dez formatos extras (cinco são formatos de efeito, que usam o motor de efeitos instalado pelo pacote básico) e requer o motor instalado pelo pacote básico. Não use `-Pacote order-bump` aqui: rode o instalador sem argumentos.
 

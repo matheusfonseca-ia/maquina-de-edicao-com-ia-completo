@@ -1,6 +1,6 @@
 ---
 name: marcacoes
-description: Edita um vídeo falado no formato Marcações. Vídeo vertical 9:16 com a pessoa em tela cheia e marcações por cima: imagem congelando com seta à mão, fita amarela no peito, caixa de seleção que aumenta o número e rabiscos de marcador. Depois de escolher o formato, a pessoa escolhe o estilo visual (original do formato, Pixelado, Noite Laranja, Claro Tecnológico ou um que ela criou). Faz parte da Máquina de Edição (precisa da skill maquina-de-edicao instalada). Use quando o usuário chamar /marcacoes ou pedir pra editar um vídeo "no formato Marcações", "marcações", "seta e rabisco" ou "anotações na tela".
+description: Edita um vídeo falado no formato Marcações. Vídeo vertical 9:16 com a pessoa em tela cheia e marcações por cima, como imagem congelando com seta à mão, fita amarela no peito, caixa de seleção que aumenta o número e rabiscos de marcador. Depois de escolher o formato, a pessoa escolhe o estilo visual (original do formato, Pixelado, Noite Laranja, Claro Tecnológico ou um que ela criou). Faz parte da Máquina de Edição (precisa da skill maquina-de-edicao instalada). Use quando o usuário chamar /marcacoes ou pedir pra editar um vídeo "no formato Marcações", "marcações", "seta e rabisco" ou "anotações na tela".
 ---
 
 # Marcações

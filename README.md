@@ -37,7 +37,7 @@ bash instalar.sh
 
 Se o pacote principal, o earshot (os efeitos sonoros) ou o motor de efeitos de vídeo (ambos instalados pelo pacote principal) ainda não estiverem instalados, o instalador avisa e para antes de copiar qualquer skill. Quem instalou o principal antes da chegada do earshot só precisa atualizar o principal (`git pull` e o instalador de novo) e depois rodar este. Este complemento adiciona somente as dez skills extras, sem substituir o motor nem os dez formatos da oferta principal. Palavra Atrás da Cabeça, Checklist na Tela, Marcações, Capa de Revista e Grade do Perfil usam os efeitos do [claude-video-effects](https://github.com/Vibha-Ramprakash/claude-video-effects) (Vibha Ramprakash, MIT), que vêm com o motor do pacote principal: quem já tinha o principal precisa atualizá-lo antes (`git pull` e o instalador de novo). Versões anteriores das mesmas skills vão para backup; preferências e estilos pessoais são preservados.
 
-Feche e abra o Claude Code. Na pasta de um vídeo, use `/maquina-de-edicao` ou um dos comandos acima. Os novos formatos aparecem no painel conforme a orientação da gravação. Todos usam os estilos visuais do pacote principal e os que você criou.
+Feche e abra o seu agente (Claude Code, Codex, OpenCode ou Freebuff). Na pasta de um vídeo, chame a Máquina ou um dos formatos acima: `/nome` no Claude Code, `$nome` no Codex, `@nome` no OpenCode e `/skill:nome` no Freebuff. Os novos formatos aparecem no painel conforme a orientação da gravação. Todos usam os estilos visuais do pacote principal e os que você criou.
 
 Para atualizar, baixe a nova versão deste complemento e rode o instalador novamente.
 
